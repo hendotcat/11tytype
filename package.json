@@ -1,0 +1,27 @@
+{
+  "name": "@hendotcat/11tytype",
+  "description": "TypeScript declarations for Eleventy sites",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Henry Catalini Smith",
+    "email": "smith@hen.cat",
+    "url": "https://hen.cat/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hendotcat/11tytype.git"
+  },
+  "peerDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "11tytype.ts"
+  ],
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
