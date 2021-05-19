@@ -21,6 +21,8 @@ export type EleventyLayout<Template, Collections> = Template & {
   collections: Collections & {
     all: any[]
   }
+  content: string
+  date: Date
 }
 
 /*

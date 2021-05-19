@@ -1,4 +1,8 @@
 {
+  "compilerOptions": {
+    "emitDeclarationOnly": true,
+    "declaration": true
+  },
   "include": [
     "./11tytype.ts"
   ]
