@@ -1,8 +1,5 @@
 {
-  "compilerOptions": {
-    "noEmit": true
-  },
   "include": [
-    "./11tytype.d.ts"
+    "./11tytype.ts"
   ]
 }
