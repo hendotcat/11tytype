@@ -3,6 +3,6 @@
     "noEmit": true
   },
   "include": [
-    "./11tytype.ts"
+    "./11tytype.d.ts"
   ]
 }
