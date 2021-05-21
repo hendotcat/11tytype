@@ -1,7 +1,7 @@
 {
   "name": "@hendotcat/11tytype",
   "description": "TypeScript declarations for Eleventy sites",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "license": "MIT",
   "author": {
     "name": "Henry Catalini Smith",
