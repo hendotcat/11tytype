@@ -1,7 +1,7 @@
 {
   "name": "@henrycatalinismith/11tytype",
   "description": "TypeScript declarations for Eleventy sites",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "author": {
     "name": "Henry Catalini Smith",
@@ -13,7 +13,7 @@
     "url": "https://github.com/henrycatalinismith/11tytype.git"
   },
   "peerDependencies": {
-    "@11ty/eleventy": "^0.12.1"
+    "@11ty/eleventy": "^1.0.0"
   },
   "scripts": {
     "build": "tsc && touch 11tytype.js"
